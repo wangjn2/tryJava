@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/trReflection/trReflection.iml" filepath="$PROJECT_DIR$/trReflection/trReflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/tryGradle.iml" filepath="$PROJECT_DIR$/tryGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryReflection/tryReflection.iml" filepath="$PROJECT_DIR$/tryReflection/tryReflection.iml" />
     </modules>
   </component>
 </project>
